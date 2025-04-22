@@ -119,10 +119,9 @@ ul li {
 #container2 {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 50px;
+    max-width: 840px;
+    margin:  auto;
+    padding: 40px;
     background: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6),
@@ -166,7 +165,7 @@ ul li {
     .container {
         padding: 30px;
     }
-
+    
     .circle-img {
         width: 130px;
         height: 130px;
