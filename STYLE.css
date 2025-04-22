@@ -51,7 +51,7 @@ nav a:hover {
 .container {
     max-width: 840px;
     margin: auto; 
-    padding: 40px;
+    padding: 55px;
     background: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6),
                 inset 0 0 10px rgba(0, 0, 0, 0.07);
@@ -121,7 +121,7 @@ ul li {
     align-items: center;
     max-width: 840px;
     margin:  auto;
-    padding: 40px;
+    padding: 50px;
     background: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6),
